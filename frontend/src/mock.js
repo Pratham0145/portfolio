@@ -18,7 +18,8 @@ export const portfolioData = {
       category: "Deep Learning",
       description: "Real-time artistic style transfer using CNN architectures. Implemented custom loss functions achieving 40% faster inference.",
       tech: ["PyTorch", "FastAPI", "Docker", "AWS"],
-      year: "2024"
+      year: "2024",
+      image: "https://images.unsplash.com/photo-1644088379091-d574269d422f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzl8MHwxfHNlYXJjaHwyfHxuZXVyYWwlMjBuZXR3b3JrfGVufDB8fHx8MTc2MDAwNDEzMHww&ixlib=rb-4.1.0&q=85"
     },
     {
       id: 2,
@@ -26,7 +27,8 @@ export const portfolioData = {
       category: "Conversational AI",
       description: "Multi-tenant chatbot system with NLP capabilities. Handles 10K+ concurrent conversations with 95% intent accuracy.",
       tech: ["LangChain", "OpenAI", "Redis", "React"],
-      year: "2024"
+      year: "2024",
+      image: "https://images.unsplash.com/photo-1694903110330-cc64b7e1d21d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2Mzl8MHwxfHNlYXJjaHwzfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDB8fHx8MTc1OTk1NDc5N3ww&ixlib=rb-4.1.0&q=85"
     },
     {
       id: 3,
@@ -34,7 +36,8 @@ export const portfolioData = {
       category: "Machine Learning",
       description: "Time-series forecasting model for industrial equipment. Reduced downtime by 35% through early anomaly detection.",
       tech: ["TensorFlow", "Scikit-learn", "PostgreSQL", "Grafana"],
-      year: "2023"
+      year: "2023",
+      image: "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2Mzl8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDB8fHx8MTc1OTk1NDc5N3ww&ixlib=rb-4.1.0&q=85"
     },
     {
       id: 4,
@@ -42,7 +45,8 @@ export const portfolioData = {
       category: "Conversational AI",
       description: "RAG-based chatbot for document querying. Processes PDFs, extracts context, and answers queries with source citations.",
       tech: ["LlamaIndex", "Pinecone", "FastAPI", "React"],
-      year: "2023"
+      year: "2023",
+      image: "https://images.unsplash.com/photo-1680783954745-3249be59e527?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2Mzl8MHwxfHNlYXJjaHw0fHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDB8fHx8MTc1OTk1NDc5N3ww&ixlib=rb-4.1.0&q=85"
     },
     {
       id: 5,
@@ -50,7 +54,8 @@ export const portfolioData = {
       category: "Deep Learning",
       description: "Object detection and tracking system for retail analytics. Achieved 92% mAP on custom dataset.",
       tech: ["YOLOv8", "OpenCV", "ONNX", "Azure"],
-      year: "2023"
+      year: "2023",
+      image: "https://images.unsplash.com/photo-1655890006065-edefcd764af6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzl8MHwxfHNlYXJjaHwzfHxuZXVyYWwlMjBuZXR3b3JrfGVufDB8fHx8MTc2MDAwNDEzMHww&ixlib=rb-4.1.0&q=85"
     },
     {
       id: 6,
@@ -58,7 +63,8 @@ export const portfolioData = {
       category: "Machine Learning",
       description: "Multi-lingual sentiment classifier for social media. Processes 1M+ texts daily with sub-100ms latency.",
       tech: ["BERT", "FastAPI", "Redis", "Kubernetes"],
-      year: "2022"
+      year: "2022",
+      image: "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2Mzl8MHwxfHNlYXJjaHwyfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlfGVufDB8fHx8MTc1OTk1NDc5N3ww&ixlib=rb-4.1.0&q=85"
     }
   ],
   
