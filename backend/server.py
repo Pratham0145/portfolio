@@ -25,6 +25,10 @@ app = FastAPI()
 # Create a router with the /api prefix
 api_router = APIRouter(prefix="/api")
 
+@app.get("/")
+async def home():
+    return {"message": "Portfolio backend running"}
+
 
 # Define Models
 class StatusCheck(BaseModel):
